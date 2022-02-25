@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, my name is Roberto Negrin</h1>
 <h3 align="center">I'm an Engineering and Physics student from Chile</h3>
 
-- 🔭 I’m currently working on [Deep Talk](https://www.deep-talk.ai/)
+- 🔭 I’m currently working in [Deep Talk](https://www.deep-talk.ai/)
 
 - 📫 How to reach me **rsnegrin@uc.cl**
 
