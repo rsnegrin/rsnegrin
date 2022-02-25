@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, my name is Roberto Negrin</h1>
-<h3 align="center">I'm an Engineering and Physics student from Chile</h3>
+<h3>I'm an Engineering and Physics student from Chile</h3>
 
 - 🔭 I’m currently working in [Deep Talk](https://www.deep-talk.ai/)
 - 📫 How to reach me **rsnegrin@uc.cl**
 
 
-<h3 align="center"> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rsnegrin&show_icons=true&theme=vue-dark&hide=stars) </h3>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rsnegrin&show_icons=true&theme=vue-dark&hide=stars)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rsnegrin&theme=vue-dark&date_format=M%20j%5B%2C%20Y%5D&background=27465B)](https://git.io/streak-stats)
 
