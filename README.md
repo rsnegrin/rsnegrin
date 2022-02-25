@@ -7,7 +7,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rsnegrin&show_icons=true&theme=vue-dark&hide=stars)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rsnegrin&theme=vue-dark&date_format=M%20j%5B%2C%20Y%5D&background=27465B)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rsnegrin&theme=vue-dark&date_format=M%20j%5B%2C%20Y%5D&background=27465B&border=FFFFFF)](https://git.io/streak-stats)
 
 
 <h3 align="left">Languages and Tools:</h3>
