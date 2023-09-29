@@ -2,6 +2,7 @@
 <h3>I'm an Engineering and Physics student from Chile</h3>
 
 - 🔭 Worked as an Intern in [Deep Talk](https://www.deep-talk.ai/)
+- Grad Student at UCLA (MQST)
 - 📫 How to reach me **rsnegrin@uc.cl**
 
 
