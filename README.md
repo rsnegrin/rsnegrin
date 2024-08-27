@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, my name is Roberto Negrin</h1>
-<h3>I'm an Engineering and Physics student from Chile</h3>
+<h1 align="center">Hi</h1>
 
 - 🔭 Worked as an Intern in [Deep Talk](https://www.deep-talk.ai/)
 - Grad Student at UCLA (MQST)
